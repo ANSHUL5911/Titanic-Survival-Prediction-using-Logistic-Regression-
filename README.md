@@ -59,6 +59,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook titanic_logistic_regression.ipynb
 ```
 
-## Author
-
-Machine Learning (4th Year B.Tech) — Logistic Regression Assignment.
